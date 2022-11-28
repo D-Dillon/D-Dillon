@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @D-Dillon
-- 👀 I’m interested in learning various electronics concepts
-- 🌱 I’m currently learning programing languages
-- 💞️ I’m looking to collaborate on my smart schedule software
-- 📫 How to reach me dillondaniel847@gmail.com
+404 Bio not found...
 
 <!---
 D-Dillon/D-Dillon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
